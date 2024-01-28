@@ -28,7 +28,11 @@ The Weather Forecast Project utilizes several APIs to provide a comprehensive we
 
 The Weather Forecast Project combines weather data from OpenWeatherMap with interactive maps powered by Leaflet. Users can input their location or allow the application to retrieve their IP address to display local weather conditions. Additional features provided by IPify and IPinfo enhance user convenience.
 
-Feel free to explore the various features and customize the project according to your needs!
+## Design solution
+
+**Bootstrap Styling - Grayscale Theme:**
+   - The project styling is based on Bootstrap, and the Grayscale theme from [Start Bootstrap](https://startbootstrap.com/theme/grayscale) was used.
+   - Bootstrap provides a responsive and visually appealing design, enhancing the overall user interface.
 
 ## Setup Instructions
 
