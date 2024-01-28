@@ -8,10 +8,10 @@ The Weather Forecast Project utilizes several APIs to provide a comprehensive we
    - Information displayed includes temperature, weather description, icon representation, coordinates (latitude and longitude), feels-like temperature, humidity, pressure, wind speed, and country code.
    - More information: [OpenWeatherMap API Documentation](https://openweathermap.org/api).
 
-2. **Leaflet API:**
-   - Used to display the city entered by the user on an interactive map.
-   - Enhances the user experience by providing a visual representation of the location.
-   - More information: [Leaflet Documentation](https://leafletjs.com/).
+2. **OpenStreetMap:**
+   - Used to display the location of the city entered by the user on an interactive map.
+   - Enhances the user experience by providing a visual representation of the location using OpenStreetMap tiles.
+   - More information: [OpenStreetMap](https://www.openstreetmap.org/).
 
 3. **IPify API:**
    - Used to retrieve the public IP address of the user.
