@@ -1,4 +1,4 @@
-# Weather Forecast Project
+# Weather Forecast Project by Kanay Bekzat SE-2210
 ## Description of Project
 
 The Weather Forecast Project utilizes several APIs to provide a comprehensive weather forecasting experience. The main APIs used, along with their specific usage, are:
